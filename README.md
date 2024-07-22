@@ -42,11 +42,12 @@ Used bar charts, scatter plots, and heatmaps to present data.
 
 ***Findings:***
 
-Average Market Cap-to-Sales Ratio: The average market cap-to-sales ratio of 15.38 indicates that, on average, companies have a market capitalization 15.38 times their quarterly sales.
-Positive Correlation: There is a positive correlation between market capitalization and quarterly sales, suggesting that as a company grows in market value, its sales also tend to increase.
-Negative Growth Rates: Both market cap and sales growth rates are negative, indicating a decline in both market value and sales revenue for many companies.
+- Average Market Cap-to-Sales Ratio: The average market cap-to-sales ratio of 15.38 indicates that, on average, companies have a market capitalization 15.38 times their quarterly sales.
+- Positive Correlation: There is a positive correlation between market capitalization and quarterly sales, suggesting that as a company grows in market value, its sales also tend to increase.
+- Negative Growth Rates: Both market cap and sales growth rates are negative, indicating a decline in both market value and sales revenue for many companies.
 
 ***Conclusion:***
+
 In this project, I found an average market cap-to-sales ratio of 15.38. Despite negative growth rates in both market cap and quarterly sales, the positive correlation indicates that as market cap increases, quarterly sales also tend to increase. This suggests that larger companies with higher market capitalization generally have higher sales. However, the overall decline in growth rates indicates that these companies are facing challenges in maintaining their previous growth momentum.
 
 You can see the project visuals [here](https://irmalenikita.github.io/Finance-analysis-of-top-500-companies-in-India/).
