@@ -10,7 +10,7 @@ Project Title: Financial Analytics
 
 **Problem Statement:**
 
- Without analyzing the competition, it is difficult for a business to survive. You are
+ Without analyzing the competition, it is difficult for a business to survive. I was
 tasked to analyse the competition for the management to provide better results. This
 data set has information on the market capitalization of the top 500 companies in India.
 Serial NumberNameName of CompanyMar Cap – CroreMarket Capitalization in
